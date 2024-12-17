@@ -1,0 +1,15 @@
+/* Add any necessary styles for the App component here */
+    .app {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .app.light {
+      background-color: #ffffff;
+      color: #000000;
+    }
+
+    .app.dark {
+      background-color: #121212;
+      color: #ffffff;
+    }
